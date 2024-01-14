@@ -19,6 +19,5 @@ Make sure you have a modern web browser installed.
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
+ ```bash
  git clone https://github.com/shuklayashh/JavaScript--Color-page.git
