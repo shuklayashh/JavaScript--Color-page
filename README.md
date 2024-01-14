@@ -21,4 +21,4 @@ Make sure you have a modern web browser installed.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone[ <repository-url>](https://github.com/shuklayashh/JavaScript--Color-page/tree/main)https://github.com/shuklayashh/JavaScript--Color-page/tree/main
